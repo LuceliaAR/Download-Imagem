@@ -15,7 +15,7 @@ body {
 
 .bg {
   background: url(bellapenelope.png)
-      no-repeat center center/cover;
+  no-repeat center center/cover;
       position: absolute;
   width: calc(100vw + 60px);
   height: calc(100vh + 60px);
